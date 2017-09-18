@@ -1,0 +1,20 @@
+:host {
+    border: 2px red solid;
+    display: block;
+    margin: 50px;
+    padding: 20px;
+    overflow-y: scroll;
+    width: calc(100% - 140px);
+    height: calc(100% - 140px);
+}
+.engineers-header a {
+  color: #fff;
+  font-size: 16px;
+  margin-bottom: 10px;
+  display: inline-block;
+  font-weight: bold;
+  padding: 5px;
+}
+.engineers-header a.active {
+  border: 2px solid #fff;
+}

@@ -1,0 +1,16 @@
+{
+  "pilots": [
+    {
+      "id": 1,
+      "firstName": "Lee",
+      "lastName": "Adama",
+      "imageUrl": "/assets/adama.png"
+    },
+    {
+      "id": 2,
+      "imageUrl": "http://www.puzzledladziecionline.pl/puzzle-pingwiny/1024x768/puzzle-dla-dzieci-pingwiny-z-madagaskaru-1.jpg",
+      "firstName": "Ada",
+      "lastName": "X"
+    }
+  ]
+}
